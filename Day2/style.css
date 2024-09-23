@@ -1,0 +1,9 @@
+table{
+ 
+ border-radius: 20px;
+ border-color: black;
+ background-color: bisque;
+ border-style: double;   
+ margin-top: 15%;
+ width: 40%;
+}

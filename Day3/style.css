@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    background-color: darkkhaki;
+    border-width: 10px;
+    border-style: groove;
+    width: 100%;
+    border-color: black;
+    border-radius: 30px;
+}
+video:hover{
+    background-color: rgb(241, 153, 253);
+    border-radius: 30px;
+
+}
+#heading{
+    background-color: bisque;
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.641);
+}
+#row1{
+    text-align: center;
+}
+#row2{
+    text-align: center;
+}
+#row1:hover{
+    background-color: rgb(254, 220, 176);
+}
+#row2:hover{
+    background-color: rgb(254, 220, 176);
+}

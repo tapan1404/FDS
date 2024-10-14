@@ -6,4 +6,6 @@ table{
  border-style: double;   
  margin-top: 15%;
  width: 40%;
+ padding: 5%;
+ box-shadow:2px;
 }
